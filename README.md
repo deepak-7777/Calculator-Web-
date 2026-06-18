@@ -2,7 +2,7 @@
 
 This repository contains a **minor web calculator project** built using HTML, CSS, and JavaScript. It performs basic arithmetic operations and demonstrates fundamental frontend development concepts.
 
----
+--- 
 
 ## 📚 About
 
