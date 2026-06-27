@@ -9,7 +9,7 @@ This repository contains a **minor web calculator project** built using HTML, CS
 The purpose of this project is to practice core web technologies by building a functional calculator with a simple and interactive user interface.
 
 ---
-
+ 
 ## 🚀 Features
 
 * Basic arithmetic operations
